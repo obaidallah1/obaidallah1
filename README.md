@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/obaid-alqershi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="obaid-alqershi" height="30" width="40" /></a>
-<a href="https://twitter.com/obaidalqershi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obaidalqershi" height="30" width="40" /></a>
+<a href="https://twitter.com/obaidalqurshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obaidalqurshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/obaidallah-alqurshi-9b9514298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obaidallah-alqurshi-9b9514298/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27355451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27355451" height="30" width="40" /></a>
 <a href="https://codesandbox.com/obaidallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="obaidallah" height="30" width="40" /></a>
