@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **obaidalqershi1@gmail.com**
 
-- ⚡ Fun fact **I think I am funny sometimes**
+- ⚡ Fun fact **The Sun makes a sound but we can't hear it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
